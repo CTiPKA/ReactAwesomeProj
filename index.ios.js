@@ -36,6 +36,7 @@ class IScrolledDownAndWhatHappenedNextShockedMe extends Component {
           <Image source={require('./img/favicon.png')} />
           <Image source={require('./img/favicon.png')} />
           <Text style={{fontSize:80}}>React Native</Text>
+          
         </ScrollView>
     );
   }
