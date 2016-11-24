@@ -21,6 +21,7 @@ export default class AwesomeProject extends Component {
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
+          More text
         </Text>
         <Text style={styles.instructions}>
           Press Cmd+R to reload,{'\n'}
